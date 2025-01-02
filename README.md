@@ -16,7 +16,7 @@ The dashboard features **interactive visualizations** with filters for **age gro
 
 The dashboard is divided into multiple sections, each featuring charts and graphs to summarize key findings:
 
-### **Image 1: General Insights**
+### **📄 PAGE 1: General Insights**
 - **👥 Total Responses by Age Group**:  
   - Donut chart showing age distribution (18-24, 25-34, 35-44, 45+).
   - Percentage of total responses per group.
@@ -33,7 +33,7 @@ The dashboard is divided into multiple sections, each featuring charts and graph
 - **📈 CountRows by Platform**:  
   - Bar chart of platform-specific responses.
 
-### **Image 2: Engagement & Preferences**
+### **📄 PAGE 2: Engagement & Preferences**
 - **🎨 Art and Creativity - Most Preferred Content Type**:  
   - Highlights Art as the top choice.
 - **🇲🇦 Following Moroccan Content**:  
@@ -51,7 +51,7 @@ The dashboard is divided into multiple sections, each featuring charts and graph
 - **🌍 Language Preferences**:  
   - Horizontal bar chart of preferred languages (Arabic, English, French).
 
-### **Image 3: Challenges & Diversity**
+### **📄 PAGE 3: Challenges & Diversity**
 - **📚 Topics**:  
   - Horizontal bar graph categorizing responses by topics (Entrepreneurship, Culture, etc.).
 - **🛠️ Strengths of Moroccan Creators**:  
@@ -65,7 +65,7 @@ The dashboard is divided into multiple sections, each featuring charts and graph
 - **📽️ Content Format**:  
   - Donut chart categorizing responses by format (Short-form, Long-form).
 
-### **Image 4: Discoveries & Support**
+### **📄 PAGE 4: Discoveries & Support**
 - **🔍 Discovering New Content**:  
   - Pie chart showing discovery methods (e.g., Search engines, Social media).
 - **💵 Financial Support**:  
